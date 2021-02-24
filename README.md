@@ -7,4 +7,5 @@
 
 ## Unidad 1: ##
 :memo: Actividades Individuales
-  1.- C0.1 
+  
+   1. [C0.1 Integrar Equipos de Trabajo](blog/C0.1_IntegrarEquiposdeTrabajo_CesarRamirez.md)
