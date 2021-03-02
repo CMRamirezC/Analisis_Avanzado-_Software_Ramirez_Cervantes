@@ -9,4 +9,4 @@
 :memo: Actividades Individuales
   
    1. [C0.1 Integrar equipos de trabajo](blog/C0.1_IntegrarEquiposdeTrabajo_CesarRamirez.pdf)
-   2. [C0.2 Tipo de sistema de información](blog/C0.2_TipoDeSistemaDeInformacion.md)
+   2. [C0.2 Tipo de sistema de información](blog/C0.2_TipoDeSistemaDeInformacion_CesarRamirez.md)
