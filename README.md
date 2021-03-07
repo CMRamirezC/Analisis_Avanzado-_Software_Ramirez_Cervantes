@@ -10,3 +10,4 @@
   
    1. [C0.1 Integrar equipos de trabajo](blog/C0.1_IntegrarEquiposdeTrabajo_CesarRamirez.pdf)
    2. [C0.2 Tipo de sistema de información](blog/C0.2_TipoDeSistemaDeInformacion_CesarRamirez.md)
+   3. [C0.3 Diagrama de flujo proceso](blog/C0.3_DiagramaDeFlujo_Proceso.md)
