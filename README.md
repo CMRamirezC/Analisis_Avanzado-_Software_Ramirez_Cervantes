@@ -21,4 +21,4 @@
    2. [C1.3 Requisitos del sistema.](blog/C1.3_RequisitosDelSistema_RamirezCervantesCesarManuel.pdf)
 
 :memo: Actividades en equipo
-   1. [A1.0 Consolidacion del acta constitutiva](Actividades/A1.0_Consolidacion_del_acta_constitutiva.pdf)
+   1. [A1.0 Consolidacion del acta constitutiva](Actividades/A1.0_Consolidacion del acta constitutiva.pdf)
