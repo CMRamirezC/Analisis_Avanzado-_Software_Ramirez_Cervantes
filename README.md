@@ -19,6 +19,7 @@
 :memo: Actividades Individuales
    1. [C1.1 Definición de Objetivo general y los especificos, asi como el modelado del negocio.](blog/C1.1_Definición_de_objetivo_general_especificos_y_modelado_del_negocio_CesarRamirez.md)
    2. [C1.3 Requisitos del sistema.](blog/C1.3_RequisitosDelSistema_RamirezCervantesCesarManuel.pdf)
+   3. [C1.4 Modelado de requisitos a través de diagramas de comportamiento.](blog/C1.4_UML_Casos_de_uso_secuencia_clases.md)
 
 :memo: Actividades en equipo
    1. [A1.0 Consolidacion del acta constitutiva](Actividades/A1.0_Consolidacion_del_acta_constitutiva.pdf)
