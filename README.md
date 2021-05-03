@@ -23,4 +23,4 @@
 
 :memo: Actividades en equipo
    1. [A1.0 Consolidacion del acta constitutiva](Actividades/A1.0_Consolidacion_del_acta_constitutiva.pdf)
-   2. [A1.1 Modelado de requisitos a través de diagramas UML](Actividades/A1.1_RequirementsModelingUML.pdf)
+   2. [A1.1 Modelado de requisitos a través de diagramas UML](Actividades/A1.1_RequirementsModelingUML.md)
