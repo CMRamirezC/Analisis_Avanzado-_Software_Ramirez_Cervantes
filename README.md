@@ -28,3 +28,10 @@
 ## Unidad 3: ##
 :memo: Actividades Individuales
    1. [C2.1_Especificación de requerimientos funcionales](blog/C2.1_EspecificaciónDeRequerimientosFuncionales.md)
+
+## Unidad 4: ##
+:memo: Actividades Individuales
+
+
+:memo: Actividades en equipo
+  1. [A3.1 Fase inicio Scrum: Declaracion de vision del proyecto](Actividades/A3.1_StartPhase-Scrum_CesarRamirez.md)
