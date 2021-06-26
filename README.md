@@ -29,6 +29,11 @@
 :memo: Actividades Individuales
    1. [C2.1_Especificación de requerimientos funcionales](blog/C2.1_EspecificaciónDeRequerimientosFuncionales.md)
 
+:memo: Actividades en equipo
+  1. 
+  2. [A2.2 Diseño de la arquitectura 4+1](Actividades/A2.2_4+1ArchitectureModel_CesarRamirez.md)
+  3. [A2.3 Patrones de arquitectura de software](Actividades/A2.3_ArchitecturePatterns_CesarRamirez.md)
+
 ## Unidad 4: ##
 :memo: Actividades Individuales
 
