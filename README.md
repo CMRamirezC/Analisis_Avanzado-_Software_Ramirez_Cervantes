@@ -35,3 +35,6 @@
 
 :memo: Actividades en equipo
   1. [A3.1 Fase inicio Scrum: Declaracion de vision del proyecto](Actividades/A3.1_StartPhase-Scrum_CesarRamirez.md)
+  2. [A3.2 Fase inicio: Artefactos](Actividades/A3.2_InitalPhase-Artefacts_CesarRamirez.md)
+  3. [A3.3 Arquitectura de software a traves del Modelo C4](Actividades/A3.3_s_CesarRamirez.md)
+  4. [A3.4 Fase planificacion y estimacion: Artefactos](Actividades/A3.4_EstimationPlanification-Artefacts_CesarRamirez.md)
